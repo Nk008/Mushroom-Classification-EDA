@@ -5,6 +5,8 @@ A model that can classify mushrooms as edible ('e') or poisonous ('p') using a s
 
 This repository contains a Kaggle notebook focused on the classification of mushrooms using machine learning. The project involves extensive Exploratory Data Analysis (EDA) and model evaluation, with a specific emphasis on the Matthews Correlation Coefficient (MCC) for assessing model performance. The final goal is to generate accurate predictions for submission to a Kaggle competition.
 
+The Kaggle Competition Link: https://www.kaggle.com/competitions/playground-series-s4e8/overview 
+Dataset for the Training is also taken form this Link: https://www.kaggle.com/competitions/playground-series-s4e8/data 
 The Kaggle Notebook Link: https://www.kaggle.com/code/nareshkmr/mushroom-classification-analysis/notebook
 ## Table of Contents
 
